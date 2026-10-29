@@ -284,15 +284,14 @@ Estas dificultades permitieron comprender mejor la relación entre las vistas, l
 
 ## 10. Fecha de ejecución e información del estudiante
 
-**Fecha de ejecución:** Octubre de 2026 (completar el día o los días exactos de la práctica).  
-**Fecha de entrega:** [Completar según la indicación vigente de la docente].
+**Fecha de ejecución:** 22 Octubre de 2026.  
+**Fecha de entrega:** 23 de Octubre del 2026.
 
 ---
 
 Este laboratorio ha sido desarrollado por un estudiante de la **Universidad Tecnológica de Panamá**.
 
-- **Nombre:** [Completar nombre y apellido].
-- **Correo académico:** [Completar correo académico].
+- **Nombre:** Andres Dommar.
 - **Curso:** Desarrollo Web.
 - **Instructora del laboratorio:** Ing. Irina Fong.
 
