@@ -270,8 +270,6 @@ Estas dificultades permitieron comprender mejor la relación entre las vistas, l
 
 7. Abrir `http://localhost:8000/register`, registrar un **usuario de prueba nuevo**, visitar `/home` y utilizar **Logout** para cerrar la sesión.
 
-**Importante:** el respaldo incluido contiene estructura e historial de migraciones, no datos personales ni cuentas utilizables. No subas al repositorio tu archivo `.env`, claves ni respaldos con usuarios reales.
-
 ## 9. Referencias
 
 1. Laravel. (s. f.). *Installation*. https://laravel.com/docs/13.x/installation
@@ -287,10 +285,6 @@ Estas dificultades permitieron comprender mejor la relación entre las vistas, l
 
 ---
 
-Este laboratorio ha sido desarrollado por un estudiante de la **Universidad Tecnológica de Panamá**.
-
 - **Nombre:** Andres Dommar.
 - **Curso:** Desarrollo Web.
 - **Instructora del laboratorio:** Ing. Irina Fong.
-
-**Nota de publicación:** se han omitido datos personales en las capturas y en la copia SQL, sin modificar las pruebas realizadas en el entorno original.
