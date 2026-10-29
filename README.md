@@ -6,6 +6,8 @@
 **Tema:** Patrón Modelo–Vista–Controlador (MVC)  
 **Docente:** Ing. Irina Fong
 
+> Proyecto académico desarrollado con Laravel 13, Laravel UI, Bootstrap y MySQL en WampServer. La documentación corresponde a los archivos y las pruebas realizadas en el proyecto `PruebaRegistroLaravel`.
+
 [![PHP](https://img.shields.io/badge/PHP-8.5.0-777BB4?logo=php&logoColor=white)](https://www.php.net/) [![Laravel](https://img.shields.io/badge/Laravel-13.38.0-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/) [![MySQL](https://img.shields.io/badge/MySQL-8.4.7-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![Node.js](https://img.shields.io/badge/Node.js-24.21.0-5FA04E?logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![Composer](https://img.shields.io/badge/Composer-2.10.3-885630?logo=composer&logoColor=white)](https://getcomposer.org/)
 
 ## 1. Introducción y objetivo
@@ -282,11 +284,16 @@ Estas dificultades permitieron comprender mejor la relación entre las vistas, l
 
 ## 10. Fecha de ejecución e información del estudiante
 
-**Fecha de ejecución:** 22 Octubre de 2026.  
-**Fecha de entrega:** 23 de Octubre de 2026.
+**Fecha de ejecución:** Octubre de 2026 (completar el día o los días exactos de la práctica).  
+**Fecha de entrega:** [Completar según la indicación vigente de la docente].
 
 ---
 
-- **Nombre:** Andres Dommar.
+Este laboratorio ha sido desarrollado por un estudiante de la **Universidad Tecnológica de Panamá**.
+
+- **Nombre:** [Completar nombre y apellido].
+- **Correo académico:** [Completar correo académico].
 - **Curso:** Desarrollo Web.
 - **Instructora del laboratorio:** Ing. Irina Fong.
+
+**Nota de publicación:** se han omitido datos personales en las capturas y en la copia SQL, sin modificar las pruebas realizadas en el entorno original.
